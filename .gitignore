@@ -55,3 +55,10 @@ docs/_build/
 
 # PyBuilder
 target/
+
+# SciLuigi
+audit/
+log/
+# foo2bar demo
+foo.txt
+foo.txt.bar.txt
